@@ -1,2 +1,0 @@
-THIS README FILE IS FOR THE PREPROCESSOR TASK IN ALX 
-# alx-low_level_programming
